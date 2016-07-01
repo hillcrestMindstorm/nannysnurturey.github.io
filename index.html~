@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="html/about.html">About</a></li>
+	<li><a href="html/policies.html">Policies</a></li>
+	<li><a href="html/resources.html">Resources</a></li>
+	<li><a href="html/pricing.html">Pricing</a></li>
+</ul>
+
+</body>
+</html>
